@@ -3,7 +3,6 @@
 
 Ссылка на проект - https://t.me/Amritacopycenter_bot
 
-
 Картинка 1: https://github.com/strekoza1440/ai_asistent/blob/main/КОПИ%20ЦЕНТР%20АМРИТА.png
 
 
